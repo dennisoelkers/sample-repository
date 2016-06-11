@@ -1,0 +1,22 @@
+{
+  "name": "sample-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisoelkers/sample-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisoelkers/sample-repository/issues"
+  },
+  "homepage": "https://github.com/dennisoelkers/sample-repository#readme",
+  "devDependencies": {
+    "eslint": "^2.12.0"
+  }
+}
